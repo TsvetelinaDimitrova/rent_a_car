@@ -3,7 +3,7 @@
 	-- Server version	10.4.11-MariaDB
 
 
-======================================================= ENGLISH_README ==========================================================================================================
+========================== ENGLISH_README ==========================
 
 
 The database "auto" was created with CHARACTER SET uft8mb4.
@@ -60,7 +60,7 @@ to_date (date) -> end date of the period
 This procedure shows a table of all available cars in the period, through input from date and input to date.
 
 
-======================================================= GERMAN_README ===========================================================================================================
+=========================== GERMAN_README ===========================
 
 
 1.	Die Datenbank auto  wurde mit CHARACTER SET uft8mb4 erstellt.
